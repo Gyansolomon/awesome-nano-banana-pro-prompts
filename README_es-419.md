@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **13789** |
+| 📝 Total de prompts | **13787** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **lunes, 25 de mayo de 2026, 9:15:31 a.m. UTC** |
+| 🔄 Última actualización | **lunes, 25 de mayo de 2026, 1:02:28 p.m. UTC** |
 
 </div>
 
@@ -1180,51 +1180,7 @@ Utiliza la imagen de referencia cargada como la ÚNICA fuente de rostro e identi
 
 ---
 
-### No. 11: Perfil / Avatar - Iluminación de estudio con gel de doble tono
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt para retrato cinematográfico de medio cuerpo que utiliza iluminación de estudio con gel magenta y cian para crear un estilo editorial moderno.
-
-#### 📝 Prompt
-
-```
-Crea un retrato cinematográfico de estudio de medio cuerpo ultra realista de {argument name="subject" default="cualquier hombre"}, preservando su peinado natural, estilo de barba, lentes o accesorios si están presentes en la referencia, y su apariencia facial general sin cambiar sus rasgos naturales. Encuadra al sujeto desde la parte superior del pecho hasta la cabeza, con la {argument name="clothing" default="sudadera negra de cuello redondo"} claramente visible. El hombre debe mirar a la cámara de forma natural con la barbilla ligeramente levantada y los ojos mirando un poco hacia arriba, mostrando una expresión suave, tranquila y segura con una sonrisa relajada muy sutil, sin ser demasiado alegre ni serio.
-
-Utiliza un fondo de estudio negro sólido y profundo sin distracciones. La iluminación debe ser dramática pero controlada: añade una luz de acento vibrante de color {argument name="accent color 1" default="magenta/púrpura"} desde un lado, tocando principalmente el cabello, el borde de la mejilla, el borde de la barba, el cuello y el hombro, y una luz de acento fría de color {argument name="accent color 2" default="cian/turquesa"} desde el lado opuesto, creando principalmente un suave borde y un reflejo lateral. Mantén el centro del rostro iluminado de forma natural con tonos de piel realistas; no hagas que todo el rostro parezca pintado, de neón o dividido bruscamente en dos colores. El efecto de doble tono debe sentirse como una iluminación de estudio profesional con geles, no como una máscara de color cyberpunk.
-
-Mantén una textura de piel suave pero natural, detalles faciales nítidos, textura de barba realista si está presente, ojos brillantes y claros, y un enfoque preciso en el rostro. Estilo de fotografía editorial profesional, profundidad de campo reducida, luz de borde suave, alto rango dinámico, aspecto de lente de 85mm, apertura f/1.8, calidad de estudio fotorrealista, detalle de alta resolución, estética cinematográfica moderna. Relación de aspecto vertical 4:5.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779695944665_b7vts7_HJDdTnHbMAAG4Z9.jpg" width="600" alt="Perfil / Avatar - Iluminación de estudio con gel de doble tono - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779695944697_xoesuq_HJDdTnLa4AIFql9.jpg" width="600" alt="Perfil / Avatar - Iluminación de estudio con gel de doble tono - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [K](https://x.com/ChillaiKalan__)
-- **Fuente:** [Twitter Post](https://x.com/ChillaiKalan__/status/2058388368858444155)
-- **Publicado:** 24 de mayo de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=22238)**
-
----
-
-### No. 12: Perfil / Avatar - Retrato de rayo de sol dorado
+### No. 11: Perfil / Avatar - Retrato de rayo de sol dorado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1258,7 +1214,7 @@ Un retrato cinematográfico en primer plano de una {argument name="subject" defa
 
 ---
 
-### No. 13: Perfil / Avatar - Retrato etéreo flotando en el agua
+### No. 12: Perfil / Avatar - Retrato etéreo flotando en el agua
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1391,7 +1347,7 @@ Un prompt estructurado y altamente detallado para generar un retrato mágico y s
 
 ---
 
-### No. 14: Perfil / Avatar - Película en blanco y negro de los 90
+### No. 13: Perfil / Avatar - Película en blanco y negro de los 90
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1431,7 +1387,7 @@ Una fotografía en blanco y negro de la {argument name="era" default="década de
 
 ---
 
-### No. 15: Perfil / Avatar - Retrato artístico en blanco y negro
+### No. 14: Perfil / Avatar - Retrato artístico en blanco y negro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1471,7 +1427,7 @@ Fotografía de retrato artístico, Leica SL3, lente de retrato de 85mm f/1.4, pr
 
 ---
 
-### No. 16: Perfil / Avatar - Retrato casual de hombre en lago alpino
+### No. 15: Perfil / Avatar - Retrato casual de hombre en lago alpino
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1505,7 +1461,7 @@ Un hombre joven adulto se sienta centrado en una cerca de madera desgastada, exu
 
 ---
 
-### No. 17: Perfil / Avatar - Retrato sofisticado de estudio en esmoquin
+### No. 16: Perfil / Avatar - Retrato sofisticado de estudio en esmoquin
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1539,7 +1495,7 @@ Retrato de estudio de bellas artes en blanco y negro ultra realista de un {argum
 
 ---
 
-### No. 18: Perfil / Avatar - Selfie al estilo de cámara desechable de los 90
+### No. 17: Perfil / Avatar - Selfie al estilo de cámara desechable de los 90
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1580,7 +1536,7 @@ Estilo de cámara desechable de los años 90, flash intenso, grano de película.
 
 ---
 
-### No. 19: Perfil / Avatar - Retrato dramático de hombre con luz roja
+### No. 18: Perfil / Avatar - Retrato dramático de hombre con luz roja
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1611,6 +1567,61 @@ Retrato dramático ultrarrealista de un {argument name="subject" default="hombre
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=22057)**
+
+---
+
+### No. 19: Perfil / Avatar - Retrato de estilo de vida de Jenna Ortega en la cocina
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt para un retrato de estilo de vida en interiores de alta resolución que presenta a una persona apoyada en una encimera de cocina moderna. Captura texturas de piel detalladas, prendas de vestir específicas e iluminación natural para lograr un ambiente divertido y atractivo.
+
+#### 📝 Prompt
+
+```
+Una fotografía de retrato de estilo de vida en interiores de alta resolución de {argument name="subject name" default="Jenna Ortega"}.
+Capturada en un plano medio-largo desde un ángulo ligeramente bajo, ella se inclina hacia adelante de manera casual y segura contra la encimera de la cocina, con el torso proyectado ligeramente hacia la cámara. Su brazo derecho se extiende hacia abajo, sujetando el borde de la encimera para apoyarse, mientras su mano izquierda descansa suavemente sobre su muslo. Lleva el cabello elegantemente peinado hacia un lado, mirando directamente a la cámara con ojos expresivos y ligeramente entrecerrados, y una sonrisa sutil, juguetona y segura. Su piel presenta una textura radiante y altamente realista, con poros finos visibles bajo la luz. Viste una camiseta sin mangas blanca, sencilla y ajustada que deja ver su abdomen, combinada con {argument name="shorts style" default="shorts deportivos negros tipo dolphin"} de cintura alta, con ribetes blancos y un cordón blanco atado en un lazo en la parte delantera.
+El entorno es una {argument name="kitchen style" default="cocina doméstica moderna y bien iluminada"} con un ambiente divertido, atractivo y casual. El fondo muestra gabinetes inferiores de madera marrón claro con manijas plateadas, una encimera negra con perillas de estufa integradas, un protector contra salpicaduras de azulejos cuadrados blancos y gabinetes superiores de madera. Accesorios sutiles como utensilios de cocina colgantes (una espátula y un cucharón) y un grifo de metal se mezclan en el fondo elegantemente desenfocado. Una luz natural brillante y suave entra por una ventana grande a la izquierda, proyectando una delicada luz de contorno sobre su cabello y el lado izquierdo de su cuerpo, mientras crea transiciones de sombra suaves y naturales en su lado derecho.
+Tomada con un lente de 35 mm a f/2.8 para mantener un enfoque nítido en sus ojos y en la textura de la ropa, logrando un hermoso efecto bokeh en los azulejos y los detalles de la cocina. La iluminación está perfectamente equilibrada, simulando una ISO 200 y una velocidad de obturación de 1/250s para evitar la sobreexposición de la ventana, asegurando un balance de blancos impecable y detalles de sombra perfectamente conservados. Relación de aspecto 9:16.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779607876683_ekgbpj_HJAWE2_WoAEiJ4N.jpg" width="600" alt="Perfil / Avatar - Retrato de estilo de vida de Jenna Ortega en la cocina - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779607876620_otmawa_HJAWE5cXsAAfHaO.jpg" width="600" alt="Perfil / Avatar - Retrato de estilo de vida de Jenna Ortega en la cocina - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779607876654_y48moq_HJAWE9UW8AAluMP.jpg" width="600" alt="Perfil / Avatar - Retrato de estilo de vida de Jenna Ortega en la cocina - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779607877286_f2u7sl_HJAWFBuXoAARg5W.jpg" width="600" alt="Perfil / Avatar - Retrato de estilo de vida de Jenna Ortega en la cocina - Image 4">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Giulia](https://x.com/Giulia_4i)
+- **Fuente:** [Twitter Post](https://x.com/Giulia_4i/status/2058169308207857940)
+- **Publicado:** 23 de mayo de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=22053)**
 
 ---
 
@@ -2762,47 +2773,7 @@ ejecutar.
 
 ---
 
-### No. 46: Miniatura de YouTube - Retrato de transmisión de multitud en estadio
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Una captura cinematográfica de transmisión deportiva de una mujer entre la multitud de un estadio durante un partido nocturno, con gráficos auténticos de transmisión en vivo.
-
-#### 📝 Prompt
-
-```
-Captura de transmisión deportiva ultrarrealista de una mujer glamorosa sentada en una {argument name="location" default="multitud de estadio de fútbol"} durante un partido nocturno, vistiendo un {argument name="outfit" default="top de satén sin mangas de cuello alto color marrón oscuro"} y aretes cuadrados negros, con cabello castaño claro/rubio a la altura de los hombros peinado en ondas suaves. Ella está casualmente {argument name="action" default="bebiendo de una lata de aluminio azul alta mientras sostiene una hamburguesa a medio comer"} en la otra mano. A su alrededor hay fanáticos con camisetas y bufandas de fútbol en azul y amarillo brillante, creando un fuerte contraste de colores de equipo. La escena se siente espontánea y cinematográfica, capturada a mitad del juego desde un ángulo de cámara de transmisión de TV con poca profundidad de campo. Incluye asientos de estadio realistas, atmósfera de audiencia abarrotada, gráficos de superposición de transmisión en la esquina superior izquierda que muestran un marcador de fútbol en vivo y el cronómetro del partido, y una marca de agua de cadena deportiva en la esquina superior derecha. Iluminación natural de arena, textura de piel detallada, enfoque nítido en la mujer, multitud de fondo ligeramente desenfocada, estética auténtica de transmisión deportiva en vivo, composición 16:9.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779695957832_gn8p07_HJD_CeUa0AAUmCb.jpg" width="600" alt="Miniatura de YouTube - Retrato de transmisión de multitud en estadio - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779695957829_cxse61_HJD_Cira4AAPVGp.jpg" width="600" alt="Miniatura de YouTube - Retrato de transmisión de multitud en estadio - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Sadia](https://x.com/SadiaMalik182)
-- **Fuente:** [Twitter Post](https://x.com/SadiaMalik182/status/2058425462888726529)
-- **Publicado:** 24 de mayo de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=22253)**
-
----
-
-### No. 47: Miniatura de YouTube - Fotografía majestuosa de nubes con forma de elefante
+### No. 46: Miniatura de YouTube - Fotografía majestuosa de nubes con forma de elefante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2846,7 +2817,7 @@ Ambiente: majestuoso, tranquilo, surrealista pero creíble, realismo de document
 
 ---
 
-### No. 48: Miniatura de YouTube - Transformación de estación de tren al estilo anime
+### No. 47: Miniatura de YouTube - Transformación de estación de tren al estilo anime
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2880,7 +2851,7 @@ Por favor, créalo en estilo anime. {argument name="descripción de la escena" d
 
 ---
 
-### No. 49: Miniatura de YouTube - El caos del Mini Cooper de Mr. Bean
+### No. 48: Miniatura de YouTube - El caos del Mini Cooper de Mr. Bean
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2934,7 +2905,7 @@ Vibrante, caótico, vertiginoso, cinematográfico y humorístico
 
 ---
 
-### No. 50: Miniatura de YouTube - Collage de retrato cinematográfico en azotea bajo la luz de la luna
+### No. 49: Miniatura de YouTube - Collage de retrato cinematográfico en azotea bajo la luz de la luna
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2974,7 +2945,7 @@ Utiliza la imagen de referencia facial cargada como la referencia de identidad e
 
 ---
 
-### No. 51: Miniatura de YouTube - Retrato de glamour urbano con cuchillo de pastel
+### No. 50: Miniatura de YouTube - Retrato de glamour urbano con cuchillo de pastel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3008,7 +2979,7 @@ No cambies los rasgos faciales. Un retrato cinematográfico en primer plano de u
 
 ---
 
-### No. 52: Miniatura de YouTube - Póster gráfico cinematográfico de vigilante
+### No. 51: Miniatura de YouTube - Póster gráfico cinematográfico de vigilante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3059,7 +3030,7 @@ Un póster gráfico vertical y cinematográfico de un vigilante enmascarado con 
 
 ---
 
-### No. 53: Miniatura de YouTube - Retrato de transmisión en estadio de baloncesto
+### No. 52: Miniatura de YouTube - Retrato de transmisión en estadio de baloncesto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3095,7 +3066,7 @@ usw image1 como ancla de identidad principal
 
 ---
 
-### No. 54: Miniatura de YouTube - Captura de pantalla de transmisión de la NBA en estadio
+### No. 53: Miniatura de YouTube - Captura de pantalla de transmisión de la NBA en estadio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3129,7 +3100,7 @@ Un prompt estructurado complejo diseñado para simular una captura de pantalla d
 
 ---
 
-### No. 55: Miniatura de YouTube - Cuadrícula de visualización de libros mágicos
+### No. 54: Miniatura de YouTube - Cuadrícula de visualización de libros mágicos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3163,7 +3134,7 @@ Cuadrícula de 2x2, haz esto para 4 libros famosos render_target = ( {argument n
 
 ---
 
-### No. 56: Miniatura de YouTube - Visualización de canción a imagen
+### No. 55: Miniatura de YouTube - Visualización de canción a imagen
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3215,7 +3186,7 @@ Un prompt que utiliza el título de una canción y el artista específicos para 
 
 ---
 
-### No. 57: Miniatura de YouTube - Retrato cinematográfico de estudio de podcast
+### No. 56: Miniatura de YouTube - Retrato cinematográfico de estudio de podcast
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3249,7 +3220,7 @@ Un profesional {argument name="host description" default="presentador de podcast
 
 ---
 
-### No. 58: Miniatura de YouTube - Generación de imágenes al estilo de programas de televisión japoneses
+### No. 57: Miniatura de YouTube - Generación de imágenes al estilo de programas de televisión japoneses
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3304,7 +3275,7 @@ Deja que la IA considere la atmósfera general de la imagen, incluyendo los subt
 
 ---
 
-### No. 59: Miniatura de YouTube - Foto cinematográfica de festival de Millie Bobby Brown
+### No. 58: Miniatura de YouTube - Foto cinematográfica de festival de Millie Bobby Brown
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3362,7 +3333,7 @@ La imagen debe capturarse en orientación vertical (9:16), utilizando un ángulo
 
 ---
 
-### No. 60: Miniatura de YouTube - Fotografía callejera cinematográfica de un hombre resbalando con una cáscara de plátano
+### No. 59: Miniatura de YouTube - Fotografía callejera cinematográfica de un hombre resbalando con una cáscara de plátano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3395,7 +3366,7 @@ Fotografía callejera cinematográfica ultrarrealista de un joven resbalando con
 
 ---
 
-### No. 61: Miniatura de YouTube - Prompt para generar imágenes de noticias falsas para el Día de los Inocentes
+### No. 60: Miniatura de YouTube - Prompt para generar imágenes de noticias falsas para el Día de los Inocentes
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3446,7 +3417,7 @@ Crea una idea única para una noticia falsa del Día de los Inocentes. Una captu
 
 ---
 
-### No. 62: Miniatura de YouTube - Indicación de Escena Dividida 'Antes y Después del Día de Pago' para Nano Banana Pro
+### No. 61: Miniatura de YouTube - Indicación de Escena Dividida 'Antes y Después del Día de Pago' para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3480,7 +3451,7 @@ Escena dividida ultrarrealista de un joven. Lado izquierdo: sentado en una cama 
 
 ---
 
-### No. 63: Miniatura de YouTube - Paseo Cinematográfico por un Mercado Callejero al Estilo Hollywood
+### No. 62: Miniatura de YouTube - Paseo Cinematográfico por un Mercado Callejero al Estilo Hollywood
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3513,7 +3484,7 @@ Crea una foto altamente cinematográfica, al estilo de Hollywood, de una persona
 
 ---
 
-### No. 64: Miniatura de YouTube - Foto cinematográfica de una mujer en el andén del metro con desenfoque de movimiento
+### No. 63: Miniatura de YouTube - Foto cinematográfica de una mujer en el andén del metro con desenfoque de movimiento
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3543,6 +3514,39 @@ Generar una foto cinematográfica realista de una mujer usando el rostro de la i
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=12729)**
+
+---
+
+### No. 64: Miniatura de YouTube - Encuadre cinematográfico de silencio de plata
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un *prompt* detallado y cinematográfico para Nano Banana Pro que describe una escena de "silencio plateado" con una gran profundidad atmosférica. Enfatiza el contraste entre un cabello naranja vibrante y un campo de hierba plateado y tenue, buscando un encuadre inquietantemente hermoso.
+
+#### 📝 Prompt
+
+```
+Explorando la profundidad atmosférica en Nano Banana Pro. El contraste entre el cabello naranja vibrante y el campo de pasto plateado tenue crea un encuadre cinematográfico inquietantemente hermoso. 👘✨
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1774421491405_4ka6fn_HEJKP-SXoAAVgBy.jpg" width="600" alt="Miniatura de YouTube - Encuadre cinematográfico de silencio de plata - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [KuChanSoon_AI](https://x.com/kuchansoon)
+- **Fuente:** [Twitter Post](https://x.com/kuchansoon/status/2036273073343574473)
+- **Publicado:** 24 de marzo de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=12752)**
 
 ---
 
@@ -5910,7 +5914,7 @@ un {argument name="subject" default="caballero"} en el {argument name="location"
 
 <div align="center">
 
-### 🎯 13669 prompts más no mostrados aquí
+### 🎯 13667 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5973,6 +5977,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-25T09:15:31.436Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-25T13:02:28.183Z</sub>
 
 </div>
